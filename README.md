@@ -1,2 +1,2 @@
 # discussion1
-<h1>Regan</h1>
+<h1>Regan Henderson</h1>
